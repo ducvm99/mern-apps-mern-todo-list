@@ -1,5 +1,5 @@
 import Modal from "react-bootstrap/Modal";
-import Button from "react-bootstrap/button";
+import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { useContext, useState } from "react";
 import { PostContext } from "../../contexts/PostContext";
